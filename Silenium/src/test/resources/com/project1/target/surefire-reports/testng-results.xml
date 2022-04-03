@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.testng.TestNGSimple" duration-ms="17457" started-at="2020-09-16T23:47:53Z" finished-at="2020-09-16T23:48:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17457" started-at="2020-09-16T23:47:53Z" finished-at="2020-09-16T23:48:11Z">
+      <class name="com.test.testng.TestNGSimple">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.testng.TestNGSimple@2ed94a8b]" name="beforeClass" is-config="true" duration-ms="8973" started-at="2020-09-16T19:47:53Z" finished-at="2020-09-16T19:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:com.test.testng.TestNGSimple@2ed94a8b]" name="openMyBlog" duration-ms="5566" started-at="2020-09-16T19:48:02Z" finished-at="2020-09-16T19:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMyBlog -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.testng.TestNGSimple@2ed94a8b]" name="afterClass" is-config="true" duration-ms="2882" started-at="2020-09-16T19:48:08Z" finished-at="2020-09-16T19:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.testng.TestNGSimple -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.testng.TestNGSimple -->
+</testng-results>
